@@ -25,7 +25,9 @@ SECRET_KEY = ')vm2l9um2#7ksokj15px9&e9b4w$847@btd&dmxck!265$cql^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','http://jcf129er.pythonanywhere.com/']
+ALLOWED_HOSTS = ['127.0.0.1',
+                'http://jcf129er.pythonanywhere.com/',
+                'jcf129er.pythonanywhere.com']
 
 
 # Application definition
